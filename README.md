@@ -1,7 +1,7 @@
 # PacMen Exercise
 
 ## Description
-In this project, the user is greeted with a blank page and two buttons: Add Pac Man and Start Game.
+This project was forked from an MIT exercise. In this project, the user is greeted with a blank page and two buttons: Add Pac Man and Start Game.
 The user can add as many Pac Men as they wish and when they hit Start Game they begin to bounce around the page,
 reflecting off the edges of the window, irrespective of window size.
 
